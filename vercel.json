@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "src/app/api/med-rag/route.ts": {
+      "maxDuration": 60
+    }
+  }
+}
